@@ -11,10 +11,11 @@
 - On the left pane, click on Users under Access Management.
 
 
+- Then, Click on **Create user** at your top right. 
+
+
 ![image](https://github.com/user-attachments/assets/d97c5e72-d586-4c27-914f-b4a8b3cc0593)
 
-
-- Then, Click on **Create user** at your top right. 
 
 - On the next page, enter your user name and the password. Read carefully and add any options you want.
 
@@ -40,9 +41,3 @@
 
 
 ![image](https://github.com/user-attachments/assets/e9fbb271-4443-4e8b-a58b-74b05a7c27c0)
-
-
-![image](https://github.com/user-attachments/assets/03678c7f-2a5e-4e83-bdd3-f71b799909a2)
-
-
-
