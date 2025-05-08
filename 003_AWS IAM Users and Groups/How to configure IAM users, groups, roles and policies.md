@@ -29,13 +29,14 @@
 ![image](https://github.com/user-attachments/assets/5eabbc64-5da3-4bd2-9be3-657e5f30511f)
 
 
-- In the **Create User group** section, add a user group name (admin) and select a policy (AdministratorAccess)
+- In the **Create User group** section, add a user group name (admin) and select a policy (AdministratorAccess).
 
 
 ![image](https://github.com/user-attachments/assets/9a961986-f8c7-4eda-b1d2-abdb3cb6a7eb)
 
 
 - Review all your information one more time. Create user and download the .csv file.
+
 
 ![image](https://github.com/user-attachments/assets/b24a8f8f-edc1-4e07-a69e-884d629e019f)
 
